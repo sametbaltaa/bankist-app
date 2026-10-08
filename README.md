@@ -40,7 +40,7 @@ These are fictional demo credentials stored directly in the JavaScript file for 
 
 This project is based on the **Bankist App** from Jonas Schmedtmann's JavaScript course. It is presented here as a learning/portfolio project, not as an original banking product.
 
-The portfolio version was cleaned to remove lecture/debug code and includes small usability and responsive-layout improvements.
+The portfolio version was cleaned to remove lecture/debug code.
 
 ## Run locally
 
