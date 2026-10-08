@@ -1,5 +1,9 @@
 # Bankist App
 
+## Live Demo
+
+[Try Bankist App](https://sametbaltaa.github.io/bankist-app/)
+
 A small banking interface built while studying modern JavaScript array methods and application logic.
 
 ## Features
@@ -12,7 +16,6 @@ A small banking interface built while studying modern JavaScript array methods a
 - Account closure
 - Sort transactions
 - Current date display
-- Responsive layout improvements
 
 ## Technologies
 
